@@ -1,0 +1,78 @@
+ProductID,ProductName,CategoryID,SupplierID
+1,Chai,1,1
+2,Chang,1,1
+3,Aniseed Syrup,2,1
+4,Chef Anton's Cajun Seasoning,2,2
+5,Chef Anton's Gumbo Mix,2,2
+6,Grandma's Boysenberry Spread,2,3
+7,Uncle Bob's Organic Dried Pears,7,3
+8,Northwoods Cranberry Sauce,2,3
+9,Mishi Kobe Niku,6,4
+10,Ikura,8,4
+11,Queso Cabrales,4,5
+12,Queso Manchego La Pastora,4,5
+13,Konbu,8,6
+14,Tofu,7,6
+15,Genen Shouyu,2,6
+16,Pavlova,3,7
+17,Alice Mutton,6,7
+18,Carnarvon Tigers,8,7
+19,Teatime Chocolate Biscuits,3,8
+20,Sir Rodney's Marmalade,3,8
+21,Sir Rodney's Scones,3,8
+22,Gustaf's Kn?ckebr?d,5,9
+23,Tunnbr?d,5,9
+24,Guaran? Fant?stica,1,10
+25,NuNuCa Nu?-Nougat-Creme,3,11
+26,Gumb?r Gummib?rchen,3,11
+27,Schoggi Schokolade,3,11
+28,R?ssle Sauerkraut,7,12
+29,Th?ringer Rostbratwurst,6,12
+30,Nord-Ost Matjeshering,8,13
+31,Gorgonzola Telino,4,14
+32,Mascarpone Fabioli,4,14
+33,Geitost,4,15
+34,Sasquatch Ale,1,16
+35,Steeleye Stout,1,16
+36,Inlagd Sill,8,17
+37,Gravad lax,8,17
+38,C?te de Blaye,1,18
+39,Chartreuse verte,1,18
+40,Boston Crab Meat,8,19
+41,Jack's New England Clam Chowder,8,19
+42,Singaporean Hokkien Fried Mee,5,20
+43,Ipoh Coffee,1,20
+44,Gula Malacca,2,20
+45,Rogede sild,8,21
+46,Spegesild,8,21
+47,Zaanse koeken,3,22
+48,Chocolade,3,22
+49,Maxilaku,3,23
+50,Valkoinen suklaa,3,23
+51,Manjimup Dried Apples,7,24
+52,Filo Mix,5,24
+53,Perth Pasties,6,24
+54,Tourti?re,6,25
+55,P?t? chinois,6,25
+56,Gnocchi di nonna Alice,5,26
+57,Ravioli Angelo,5,26
+58,Escargots de Bourgogne,8,27
+59,Raclette Courdavault,4,28
+60,Camembert Pierrot,4,28
+61,Sirop d'?rable,2,29
+62,Tarte au sucre,3,29
+63,Vegie-spread,2,7
+64,Wimmers gute Semmelkn?del,5,12
+65,Louisiana Fiery Hot Pepper Sauce,2,2
+66,Louisiana Hot Spiced Okra,2,2
+67,Laughing Lumberjack Lager,1,16
+68,Scottish Longbreads,3,8
+69,Gudbrandsdalsost,4,15
+70,Outback Lager,1,7
+71,Flotemysost,4,15
+72,Mozzarella di Giovanni,4,14
+73,R?d Kaviar,8,17
+74,Longlife Tofu,7,4
+75,Rh?nbr?u Klosterbier,1,12
+76,Lakkalik??ri,1,23
+77,Original Frankfurter gr?ne So?e,2,12
