@@ -1,92 +1,92 @@
-CustomerID,CompanyName,City,Country,Region
-ALFKI,Alfreds Futterkiste,Berlin,Germany,
-ANATR,Ana Trujillo Emparedados y helados,M?xico D.F.,Mexico,
-ANTON,Antonio Moreno Taquer?a,M?xico D.F.,Mexico,
-AROUT,Around the Horn,London,UK,
-BERGS,Berglunds snabbk?p,Lule?,Sweden,
-BLAUS,Blauer See Delikatessen,Mannheim,Germany,
-BLONP,Blondesddsl p?re et fils,Strasbourg,France,
-BOLID,B?lido Comidas preparadas,Madrid,Spain,
-BONAP,Bon app',Marseille,France,
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,BC
-BSBEV,B's Beverages,London,UK,
-CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,
-CENTC,Centro comercial Moctezuma,M?xico D.F.,Mexico,
-CHOPS,Chop-suey Chinese,Bern,Switzerland,
-COMMI,Com?rcio Mineiro,Sao Paulo,Brazil,SP
-CONSH,Consolidated Holdings,London,UK,
-DRACD,Drachenblut Delikatessen,Aachen,Germany,
-DUMON,Du monde entier,Nantes,France,
-EASTC,Eastern Connection,London,UK,
-ERNSH,Ernst Handel,Graz,Austria,
-FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,SP
-FISSA,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Spain,
-FOLIG,Folies gourmandes,Lille,France,
-FOLKO,Folk och f? HB,Br?cke,Sweden,
-FRANK,Frankenversand,M?nchen,Germany,
-FRANR,France restauration,Nantes,France,
-FRANS,Franchi S.p.A.,Torino,Italy,
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,
-GALED,Galer?a del gastr?nomo,Barcelona,Spain,
-GODOS,Godos Cocina T?pica,Sevilla,Spain,
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,SP
-GREAL,Great Lakes Food Market,Eugene,USA,OR
-GROSR,GROSELLA-Restaurante,Caracas,Venezuela,DF
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,RJ
-HILAA,HILARION-Abastos,San Crist?bal,Venezuela,T?chira
-HUNGC,Hungry Coyote Import Store,Elgin,USA,OR
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,Co. Cork
-ISLAT,Island Trading,Cowes,UK,Isle of Wight
-KOENE,K?niglich Essen,Brandenburg,Germany,
-LACOR,La corne d'abondance,Versailles,France,
-LAMAI,La maison d'Asie,Toulouse,France,
-LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,BC
-LAZYK,Lazy K Kountry Store,Walla Walla,USA,WA
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,
-LETSS,Let's Stop N Shop,San Francisco,USA,CA
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,Lara
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,Nueva Esparta
-LONEP,Lonesome Pine Restaurant,Portland,USA,OR
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,
-MAISD,Maison Dewey,Bruxelles,Belgium,
-MEREP,M?re Paillarde,Montr?al,Canada,Qu?bec
-MORGK,Morgenstern Gesundkost,Leipzig,Germany,
-NORTS,North/South,London,UK,
-OCEAN,Oc?ano Atl?ntico Ltda.,Buenos Aires,Argentina,
-OLDWO,Old World Delicatessen,Anchorage,USA,AK
-OTTIK,Ottilies K?seladen,K?ln,Germany,
-PARIS,Paris sp?cialit?s,Paris,France,
-PERIC,Pericles Comidas cl?sicas,M?xico D.F.,Mexico,
-PICCO,Piccolo und mehr,Salzburg,Austria,
-PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,
-QUEDE,Que Del?cia,Rio de Janeiro,Brazil,RJ
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,SP
-QUICK,QUICK-Stop,Cunewalde,Germany,
-RANCH,Rancho grande,Buenos Aires,Argentina,
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,NM
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,RJ
-RICSU,Richter Supermarkt,Gen?ve,Switzerland,
-ROMEY,Romero y tomillo,Madrid,Spain,
-SANTG,Sant? Gourmet,Stavern,Norway,
-SAVEA,Save-a-lot Markets,Boise,USA,ID
-SEVES,Seven Seas Imports,London,UK,
-SIMOB,Simons bistro,Kobenhavn,Denmark,
-SPECD,Sp?cialit?s du monde,Paris,France,
-SPLIR,Split Rail Beer & Ale,Lander,USA,WY
-SUPRD,Supr?mes d?lices,Charleroi,Belgium,
-THEBI,The Big Cheese,Portland,USA,OR
-THECR,The Cracker Box,Butte,USA,MT
-TOMSP,Toms Spezialit?ten,M?nster,Germany,
-TORTU,Tortuga Restaurante,M?xico D.F.,Mexico,
-TRADH,Tradi??o Hipermercados,Sao Paulo,Brazil,SP
-TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,WA
-VAFFE,Vaffeljernet,?rhus,Denmark,
-VICTE,Victuailles en stock,Lyon,France,
-VINET,Vins et alcools Chevalier,Reims,France,
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,
-WARTH,Wartian Herkku,Oulu,Finland,
-WELLI,Wellington Importadora,Resende,Brazil,SP
-WHITC,White Clover Markets,Seattle,USA,WA
-WILMK,Wilman Kala,Helsinki,Finland,
-WOLZA,Wolski  Zajazd,Warszawa,Poland,
+CustomerID,CompanyName,City,Country
+ALFKI,Alfreds Futterkiste,Berlin,Germany
+ANATR,Ana Trujillo Emparedados y helados,M?xico D.F.,Mexico
+ANTON,Antonio Moreno Taquer?a,M?xico D.F.,Mexico
+AROUT,Around the Horn,London,UK
+BERGS,Berglunds snabbk?p,Lule?,Sweden
+BLAUS,Blauer See Delikatessen,Mannheim,Germany
+BLONP,Blondesddsl p?re et fils,Strasbourg,France
+BOLID,B?lido Comidas preparadas,Madrid,Spain
+BONAP,Bon app',Marseille,France
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada
+BSBEV,B's Beverages,London,UK
+CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina
+CENTC,Centro comercial Moctezuma,M?xico D.F.,Mexico
+CHOPS,Chop-suey Chinese,Bern,Switzerland
+COMMI,Com?rcio Mineiro,Sao Paulo,Brazil
+CONSH,Consolidated Holdings,London,UK
+DRACD,Drachenblut Delikatessen,Aachen,Germany
+DUMON,Du monde entier,Nantes,France
+EASTC,Eastern Connection,London,UK
+ERNSH,Ernst Handel,Graz,Austria
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil
+FISSA,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Spain
+FOLIG,Folies gourmandes,Lille,France
+FOLKO,Folk och f? HB,Br?cke,Sweden
+FRANK,Frankenversand,M?nchen,Germany
+FRANR,France restauration,Nantes,France
+FRANS,Franchi S.p.A.,Torino,Italy
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal
+GALED,Galer?a del gastr?nomo,Barcelona,Spain
+GODOS,Godos Cocina T?pica,Sevilla,Spain
+GOURL,Gourmet Lanchonetes,Campinas,Brazil
+GREAL,Great Lakes Food Market,Eugene,USA
+GROSR,GROSELLA-Restaurante,Caracas,Venezuela
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil
+HILAA,HILARION-Abastos,San Crist?bal,Venezuela
+HUNGC,Hungry Coyote Import Store,Elgin,USA
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland
+ISLAT,Island Trading,Cowes,UK
+KOENE,K?niglich Essen,Brandenburg,Germany
+LACOR,La corne d'abondance,Versailles,France
+LAMAI,La maison d'Asie,Toulouse,France
+LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada
+LAZYK,Lazy K Kountry Store,Walla Walla,USA
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany
+LETSS,Let's Stop N Shop,San Francisco,USA
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela
+LONEP,Lonesome Pine Restaurant,Portland,USA
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy
+MAISD,Maison Dewey,Bruxelles,Belgium
+MEREP,M?re Paillarde,Montr?al,Canada
+MORGK,Morgenstern Gesundkost,Leipzig,Germany
+NORTS,North/South,London,UK
+OCEAN,Oc?ano Atl?ntico Ltda.,Buenos Aires,Argentina
+OLDWO,Old World Delicatessen,Anchorage,USA
+OTTIK,Ottilies K?seladen,K?ln,Germany
+PARIS,Paris sp?cialit?s,Paris,France
+PERIC,Pericles Comidas cl?sicas,M?xico D.F.,Mexico
+PICCO,Piccolo und mehr,Salzburg,Austria
+PRINI,Princesa Isabel Vinhos,Lisboa,Portugal
+QUEDE,Que Del?cia,Rio de Janeiro,Brazil
+QUEEN,Queen Cozinha,Sao Paulo,Brazil
+QUICK,QUICK-Stop,Cunewalde,Germany
+RANCH,Rancho grande,Buenos Aires,Argentina
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil
+RICSU,Richter Supermarkt,Gen?ve,Switzerland
+ROMEY,Romero y tomillo,Madrid,Spain
+SANTG,Sant? Gourmet,Stavern,Norway
+SAVEA,Save-a-lot Markets,Boise,USA
+SEVES,Seven Seas Imports,London,UK
+SIMOB,Simons bistro,Kobenhavn,Denmark
+SPECD,Sp?cialit?s du monde,Paris,France
+SPLIR,Split Rail Beer & Ale,Lander,USA
+SUPRD,Supr?mes d?lices,Charleroi,Belgium
+THEBI,The Big Cheese,Portland,USA
+THECR,The Cracker Box,Butte,USA
+TOMSP,Toms Spezialit?ten,M?nster,Germany
+TORTU,Tortuga Restaurante,M?xico D.F.,Mexico
+TRADH,Tradi??o Hipermercados,Sao Paulo,Brazil
+TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA
+VAFFE,Vaffeljernet,?rhus,Denmark
+VICTE,Victuailles en stock,Lyon,France
+VINET,Vins et alcools Chevalier,Reims,France
+WANDK,Die Wandernde Kuh,Stuttgart,Germany
+WARTH,Wartian Herkku,Oulu,Finland
+WELLI,Wellington Importadora,Resende,Brazil
+WHITC,White Clover Markets,Seattle,USA
+WILMK,Wilman Kala,Helsinki,Finland
+WOLZA,Wolski  Zajazd,Warszawa,Poland
